@@ -1,0 +1,125 @@
+{
+  "Header": {
+    "title": "Welcome to my Portfolio!",
+    "paragraph": "This is where you'll find what you're looking for."
+  },
+  "About": {
+    "paragraph": "Born, raised, and homeschooled in Randleman, NC. After I graduated I went to Randolph Community College's welding trade program. I then worked in that field for nearly 10 years and since becoming a recent parent, my wife and I decided it was time to consider career options better for my long-term health. I then decided to pursue my early interest in computer technology. After discovering web devolpment I found an interest in the inner-workings of how websites work and how everything connects together. Since then my curiosity leads me to learning new things about web development everyday.",
+    "Why": [
+      "Resourceful",
+      "Reliable",
+      "Adaptable",
+      "Creative"
+    ],
+    "Why2": [
+      "Detail Oriented",
+      "Colaborative",
+      "Organized",
+      "Results Driven"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Horiseon",
+      "largeImage": "img/portfolio/HORISEON.png",
+      "smallImage": "img/portfolio/HORISEON.png"
+    },
+    {
+      "title": "Weather Forecast Website",
+      "largeImage": "img/portfolio/Weather-Forecast-Site.png",
+      "smallImage": "img/portfolio/Weather-Forecast-Site.png"
+    },
+    {
+      "title": "Note Taker",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/Note-Taker.png"
+    },
+    {
+      "title": "CMS Blog Site",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/CMS"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  
+  "Contact": {
+    "address": "Randleman, NC",
+    "phone": "336-964-6600",
+    "email": "josiahsmith1359@gmail.com",
+    "facebook": "https://www.facebook.com/josiah.smith.16/",
+    "linkedIn": "https://www.linkedin.com/in/josiah-smith-6a30671b3/"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-html5",
+      "title": "HTML"
+    },
+    {
+      "icon": "fa fa-css3",
+      "title": "CSS"
+    },
+    {
+      "icon": "fa fa-code",
+      "title": "JavaScript"
+    },
+    {
+      "icon": "fa fa-html5",
+      "title": "APIs"
+    },
+    {
+      "icon": "fa fa-html5",
+      "title": "Node.js"
+    },
+    {
+      "icon": "fa fa-html5",
+      "title": "OOP"
+    },
+    {
+      "icon": "fa fa-html5",
+      "title": "Express.js"
+    },
+    {
+      "icon": "fa fa-database",
+      "title": "SQL"
+    },
+    {
+      "icon": "fa fa-html5",
+      "title": "NoSQL"
+    },
+    {
+      "icon": "fa fa-html5",
+      "title": "PWA"
+    },
+    {
+      "icon": "fa fa-database",
+      "title": "React"
+    },{
+      "icon": "fa fa-database",
+      "title": "MERN"
+    }
+  ]
+}
