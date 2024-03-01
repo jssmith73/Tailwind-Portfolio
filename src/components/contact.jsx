@@ -130,20 +130,21 @@ export const Contact = (props) => {
               <div className="social">
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : "/"}>
+                    <a href={props.data ? props.data.facebook : "https://www.facebook.com/josiah.smith.16/"}>
                       <i className="fa fa-facebook"></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : "/"}>
-                      <i className="fa fa-twitter"></i>
+                    <a href={props.data ? props.data.linkedIn : "https://www.linkedin.com/in/josiah-smith-6a30671b3/"}>
+                      <i className="fa fa-linkedIn"></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.youtube : "/"}>
-                      <i className="fa fa-youtube"></i>
+                    <a href={props.data ? props.data.github : "https://www.linkedin.com/in/josiah-smith-6a30671b3/"}>
+                      <i className="fa fa-github"></i>
                     </a>
                   </li>
+            
                 </ul>
               </div>
             </div>
@@ -153,7 +154,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
+            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" Josiah Smith "}
             <a href="http://www.templatewire.com" rel="nofollow">
               TemplateWire
             </a>
