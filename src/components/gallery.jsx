@@ -21,8 +21,9 @@ export const Gallery = (props) => {
                   >
                     <Image
                       title={d.title}
-                      largeImage={d.largeImage}
                       smallImage={d.smallImage}
+                      githubLink={d.githubLink}
+                      link={d.link}
                     />
                   </div>
                 ))

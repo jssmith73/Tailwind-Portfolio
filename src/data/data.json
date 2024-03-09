@@ -1,7 +1,7 @@
 {
   "Header": {
     "title": "Welcome To My Portfolio",
-    "paragraph": "Good news...you've found what you're looking for!"
+    "paragraph": "This is where you find what you're looking for!"
   },
   "About": {
     "paragraph": "Born, raised, and homeschooled in Randleman, NC. After I graduated I went to Randolph Community College's welding trade program. I then worked in that field for nearly 10 years and since becoming a recent parent, my wife and I decided it was time to consider career options better for my long-term health. I then decided to pursue my early interest in computer technology. After discovering web devolpment I found an interest in the inner-workings of how websites work and how everything connects together. Since then my curiosity leads me to learning new things about web development everyday.",
@@ -21,121 +21,108 @@
   "Gallery": [
     
     {
+      "githubLink": "https://github.com/jssmith73/Weather-Forecast-Site",
+      "link": "https://jssmith73.github.io/Weather-Forecast-Site/",
       "title": "Weather Forecast Site",
-      "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/weather-forecast.png"
     },
     {
+      "githubLink": "https://github.com/jssmith73/JS-WOODWORKS",
+      "link": "https://jssmith73.github.io/JS-WOODWORKS/",
       "title": "JS Woodworks",
-      "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/JS WOODWORKS.png"
     },
     {
+      "githubLink": "https://github.com/jssmith73/CMS-Blog",
+      "link": "https://cms-blogsite-b69b641ac91c.herokuapp.com",
       "title": "CMS Blog",
-      "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/CMS-Blog.png"
     },
     {
+      "githubLink": "https://github.com/PamWillis/EventCenter",
+      "link": "https://eventcenter.onrender.com/",
       "title": "EventCenter",
-      "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/eventcenter.png"
     },
     {
+      "githubLink": "https://github.com/anewgard41/TrailBuddy",
+      "link": "https://trail-buddy-cary-nc-4eb34ba4009f.herokuapp.com/",
       "title": "TrailBuddy",
-      "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/trailbuddy.png"
     },
     {
+      "githubLink": "https://github.com/itsaboy/local-planting-planner",
+      "link": "https://itsaboy.github.io/local-planting-planner/",
       "title": "Local Planting Planner",
-      "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/Local-Planting-Planner.png"
     },
     {
+      "githubLink": "https://github.com/jssmith73/JS-Password-Generator",
+      "link": "https://jssmith73.github.io/JS-Password-Generator/",
       "title": "Password Generator",
-      "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/password-generator.png"
     },
     {
+      "githubLink": "https://github.com/jssmith73/ExpressJS-Note-Taker",
+      "link": "https://intense-ridge-73258-b3e464638767.herokuapp.com/",
       "title": "Note Taker",
-      "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/note-taker.png"
     },
     {
+      "githubLink": "https://github.com/jssmith73/Josiah-s-Calendar-Application",
+      "link": "https://jssmith73.github.io/Josiah-s-Calendar-Application/",
       "title": "Workday Scheduler",
-      "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/work-day-scheduler.png"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-solid fa-1",
-      "name": "HTML",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-html5",
+      "name": "HTML"
     },
     {
       "icon": "fa fa-css3",
-      "name": "CSS",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "CSS"
     },
     {
-      "icon": "fa img/icons/js.svg",
-      "name": "JavaScript",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-brands fa-js",
+      "name": "JavaScript"
     },
     {
-      "icon": "fa" ,
-      "name": "APIs",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-solid fa-server",
+      "name": "API's"
     },
     {
-      "icon": "fa fa-node",
-      "name": "Node",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-brands fa-node-js",
+      "name": "Node"
     },
     {
-      "icon": "fa fa-react",
-      "name": "Handlebars.js",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-book",
+      "name": "Handlebars.js"
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Express",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa",
+      "name": "Express"
     },
     {
-      "icon": "fa fa-database",
-      "name": "SQL",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-solid fa-database",
+      "name": "SQL"
     },
     {
-      "icon": "fa fa-json",
-      "name": "JSON",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa",
+      "name": "JSON"
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "MVC",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-solid fa-database",
+      "name": "NoSQL"
     },
     {
-      "icon": "fa fa-sharp fa-solid fa-database",
-      "name": "NoSQL",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa",
+      "name": "jQuery"
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "PWA",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-react",
-      "name": "React",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Slate",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-brands fa-react",
+      "name": "React"
     }
   ],
   
