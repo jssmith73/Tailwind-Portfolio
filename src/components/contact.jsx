@@ -136,7 +136,7 @@ export const Contact = (props) => {
                   </li>
                   <li>
                     <a href={props.data ? props.data.linkedIn : "https://www.linkedin.com/in/josiah-smith-6a30671b3/"}>
-                      <i className="fa fa-linkedIn"></i>
+                      <i className="fa fa-linkedin"></i>
                     </a>
                   </li>
                   <li>

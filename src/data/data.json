@@ -93,7 +93,7 @@
       "name": "API's"
     },
     {
-      "icon": "fa fa-brands fa-node-js",
+      "icon": "fa fa-brands fa-node",
       "name": "Node"
     },
     {
@@ -101,7 +101,7 @@
       "name": "Handlebars.js"
     },
     {
-      "icon": "fa",
+      "icon": "fa fa-brands fa-node-js",
       "name": "Express"
     },
     {
@@ -109,7 +109,7 @@
       "name": "SQL"
     },
     {
-      "icon": "fa",
+      "icon": "fa fa-file",
       "name": "JSON"
     },
     {
@@ -117,7 +117,7 @@
       "name": "NoSQL"
     },
     {
-      "icon": "fa",
+      "icon": "fa fa-book",
       "name": "jQuery"
     },
     {
